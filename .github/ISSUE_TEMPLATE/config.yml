@@ -7,8 +7,8 @@ contact_links:
     url: https://github.com/tw93/Mole/issues
     about: Bugs and feature requests for the open-source CLI / 开源 CLI 的问题和功能建议
   - name: Purchase and activation support / 购买与激活
-    url: mailto:hi@mole.fit
-    about: Private help with purchases, activation and refunds / 购买、激活和退款问题走邮件
+    url: https://github.com/tw93/Mole-App#feedback
+    about: Email hi@mole.fit for purchase, activation and refund help / 购买、激活和退款发邮件到 hi@mole.fit
   - name: Security reports / 安全问题
     url: https://github.com/tw93/Mole-App/blob/main/.github/SECURITY.md
     about: Send security details privately / 安全问题私下反馈
