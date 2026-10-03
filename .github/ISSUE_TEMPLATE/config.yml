@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and discussions / 提问与讨论
+    url: https://github.com/tw93/Mole-App/discussions
+    about: Ask a question or share how you use Mole / 提问或交流 Mole 的用法
+  - name: Mole CLI
+    url: https://github.com/tw93/Mole/issues
+    about: Bugs and feature requests for the open-source CLI / 开源 CLI 的问题和功能建议
+  - name: Purchase and activation support / 购买与激活
+    url: mailto:hi@mole.fit
+    about: Private help with purchases, activation and refunds / 购买、激活和退款问题走邮件
+  - name: Security reports / 安全问题
+    url: https://github.com/tw93/Mole-App/blob/main/.github/SECURITY.md
+    about: Send security details privately / 安全问题私下反馈

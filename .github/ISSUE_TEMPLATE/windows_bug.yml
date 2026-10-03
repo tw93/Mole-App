@@ -1,0 +1,58 @@
+name: Windows bug report / Windows 问题反馈
+description: Report a problem with Mole for Windows / 反馈 Windows App 的问题
+labels: [bug, windows-app]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Report a problem with **Mole for Windows**. The app is closed source. This repository hosts documentation and feedback.
+
+        这里用于反馈 **Mole for Windows** 的问题，App 未开源，这个仓库只提供文档和反馈入口。
+
+        Issues are public. For purchase, activation or refund questions, email **hi@mole.fit**. Keep license keys and personal information out of attachments.
+
+        Issue 是公开的，购买、激活或退款问题发到 **hi@mole.fit**，附件里不要包含激活码或个人信息。
+  - type: input
+    id: app-version
+    attributes:
+      label: App version / App 版本
+      description: Include whether this is a beta / 填写版本，并注明是否为 beta
+      placeholder: "0.3.0"
+    validations:
+      required: true
+  - type: input
+    id: windows-version
+    attributes:
+      label: Windows version / Windows 版本
+      description: Include the version shown in Settings > System > About / 填写设置里的系统版本
+      placeholder: Windows 11 24H2
+    validations:
+      required: true
+  - type: dropdown
+    id: architecture
+    attributes:
+      label: Architecture / 架构
+      options:
+        - x64
+        - ARM64
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened? / 遇到了什么问题？
+      description: Describe what happened and what you expected / 说明实际发生的情况和预期结果
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / 复现步骤
+      description: How can I reproduce this? If it is intermittent, say so / 说明怎样触发，偶发问题也可以注明
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Screenshots or logs / 截图或日志
+      description: Optional. Remove personal information before attaching files / 可选，上传前移除个人信息

@@ -1,0 +1,34 @@
+name: Feature request / 功能建议
+description: Suggest an improvement to the Mac or Windows app / 给 Mac 或 Windows App 提建议
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share an idea for **Mole for Mac** or **Mole for Windows**. The apps are closed source. This repository hosts documentation and feedback.
+
+        这里用于给 **Mole for Mac** 或 **Mole for Windows** 提建议，App 未开源，这个仓库只提供文档和反馈入口。
+
+        For CLI requests, use [tw93/Mole](https://github.com/tw93/Mole/issues).
+  - type: dropdown
+    id: app
+    attributes:
+      label: App / 产品
+      options:
+        - Mole for Mac
+        - Mole for Windows
+        - Both / 两者
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would you like to improve? / 想改善什么？
+      description: Describe what you are trying to do and where the app falls short / 说明你想做什么，以及当前哪里不够好用
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea / 你的建议
+      description: A possible solution, example or screenshot / 可以补充做法、例子或截图
