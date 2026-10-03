@@ -5,9 +5,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Report a problem with **Mole for Mac**. The app is closed source. This repository hosts documentation and feedback.
+        Report a problem with **Mole for Mac**. Your feedback helps improve the app.
 
-        这里用于反馈 **Mole for Mac** 的问题，App 未开源，这个仓库只提供文档和反馈入口。
+        这里用于反馈 **Mole for Mac** 的问题，你的反馈能帮助我把 App 做得更好。
 
         Issues are public. For purchase, activation or refund questions, email **hi@mole.fit**. Keep license keys and personal information out of attachments.
 

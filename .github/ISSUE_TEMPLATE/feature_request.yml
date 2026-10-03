@@ -5,9 +5,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Share an idea for **Mole for Mac** or **Mole for Windows**. The apps are closed source. This repository hosts documentation and feedback.
+        Share an idea for **Mole for Mac** or **Mole for Windows**. Tell me what would make the app more useful to you.
 
-        这里用于给 **Mole for Mac** 或 **Mole for Windows** 提建议，App 未开源，这个仓库只提供文档和反馈入口。
+        这里用于给 **Mole for Mac** 或 **Mole for Windows** 提建议，说说怎样能让 App 更好用。
 
         For CLI requests, use [tw93/Mole](https://github.com/tw93/Mole/issues).
   - type: dropdown

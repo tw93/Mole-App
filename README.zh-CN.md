@@ -4,7 +4,7 @@
 
 这里是 **Mole for Mac** 和 **Mole for Windows** 的官方文档与反馈仓库，可以了解产品、提交问题和参与讨论。
 
-**Mac 和 Windows App 都没有开源**，这个公开仓库只存放产品说明和社区反馈表单，不包含 App 源码，开源的命令行工具在独立的 [Mole CLI 仓库](https://github.com/tw93/Mole)。
+Mac 和 Windows App 是商业产品，专注原生桌面体验，付费授权支持持续开发和维护。这里欢迎问题反馈、功能建议和讨论，不包含 App 源码，[Mole CLI](https://github.com/tw93/Mole) 继续免费开源。
 
 ## 下载 Mole
 
@@ -44,7 +44,7 @@ CLI 的问题和功能建议放在 [tw93/Mole](https://github.com/tw93/Mole/issu
 
 ### GitHub 仓库公开，是不是意味着 App 开源了？
 
-不是，这里公开的是文档和反馈入口，Mac 与 Windows App 的源码仍然私有，公开这些文档不代表公开 App 源码或授予源码使用许可。
+这里公开的是文档和社区反馈，Mac 与 Windows App 的源码保持私有，[Mole CLI](https://github.com/tw93/Mole) 免费开源，欢迎在这里反馈问题、提出建议和参与讨论。
 
 ### 用 App 之前需要安装 CLI 吗？
 

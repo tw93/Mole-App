@@ -4,7 +4,7 @@
 
 Official documentation, issue reports and discussions for **Mole for Mac** and **Mole for Windows**, the desktop apps for cleaning and managing your computer.
 
-**The Mac and Windows apps are closed source.** This public repository contains product information and community feedback forms. It does not contain application source code. The separate [Mole CLI](https://github.com/tw93/Mole) is open source.
+Mole for Mac and Windows are commercial apps focused on a polished native desktop experience. Paid licenses support ongoing development and maintenance. This repository welcomes bug reports, feature ideas and discussions. It does not include app source code. The [Mole CLI](https://github.com/tw93/Mole) remains free and open source.
 
 ## Get Mole
 
@@ -44,7 +44,7 @@ For CLI bugs and feature requests, use [tw93/Mole](https://github.com/tw93/Mole/
 
 ### Does a public GitHub repository mean the apps are open source?
 
-No. GitHub hosts the public documentation and feedback here. The Mac and Windows application source code remains private. Making these documents public does not publish or license the application source code.
+This repository shares documentation and hosts community feedback. The Mac and Windows app source code remains private, while the [Mole CLI](https://github.com/tw93/Mole) is free and open source. You are welcome to report issues, suggest improvements and join discussions here.
 
 ### Do I need to install the CLI to use the apps?
 
