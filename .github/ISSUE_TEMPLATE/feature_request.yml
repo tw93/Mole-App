@@ -9,6 +9,10 @@ body:
 
         这里用于给 **Mole for Mac** 或 **Mole for Windows** 提建议，说说怎样能让 App 更好用。
 
+        For Mac ideas, check whether the latest stable release already includes the feature. For Windows, check the version currently available on the Windows website. Windows is still in testing.
+
+        Mac 的功能建议先看看最新正式版里是否已经有了，Windows 则按官网当前提供的版本核对，Windows 版仍在测试。
+
         For CLI requests, use [tw93/Mole](https://github.com/tw93/Mole/issues).
   - type: dropdown
     id: app

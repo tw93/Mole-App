@@ -9,6 +9,10 @@ body:
 
         这里用于反馈 **Mole for Windows** 的问题，你的反馈能帮助我把 App 做得更好。
 
+        Windows is still in testing. Before reporting, use the version currently available on the Windows website, reopen Mole and confirm the running version. If updating fails, report the installed version and update error instead. Privacy and security reports are accepted on older builds. Send security details privately to **hi@mole.fit**.
+
+        Windows 版仍在测试，反馈前先用 Windows 官网当前提供的版本，重新打开 Mole 后核对正在运行的版本，更新失败时直接填写已安装的版本和更新报错，隐私和安全问题不受版本限制，安全详情仍私下发到 **hi@mole.fit**。
+
         Issues are public. For purchase, activation or refund questions, email **hi@mole.fit**. Keep license keys and personal information out of attachments.
 
         Issue 是公开的，购买、激活或退款问题发到 **hi@mole.fit**，附件里不要包含激活码或个人信息。
@@ -16,7 +20,7 @@ body:
     id: app-version
     attributes:
       label: App version / App 版本
-      description: Include whether this is a beta / 填写版本，并注明是否为 beta
+      description: Enter the version shown in the running app, and note whether this is beta / 填写重新打开后实际运行的版本，并注明是否为 beta
       placeholder: "0.3.0"
     validations:
       required: true

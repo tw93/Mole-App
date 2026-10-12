@@ -31,7 +31,7 @@ Mole for Mac is a native SwiftUI app created and maintained by [Tw93](https://gi
 
 #### AI cleanup · Preview
 
-The Preview build adds AI Cleanup & Care inside Clean. It reviews caches, old versions, old sessions, cleanable worktrees and idle command-line tools from Claude Code, Codex, Cursor and other AI tools. Caches start selected, while sessions and tools need your review. Memories, plans, skills and local models are excluded. See the [AI cleanup guide](https://mole.fit/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai) for details.
+The Preview build adds AI Cleanup & Care inside Clean. It reviews caches, old versions, old sessions, cleanable worktrees and idle command-line tools from Claude Code, Codex, Cursor and other AI tools. Caches start selected, while sessions and tools need your review. Memories, plans and skills are excluded. For local models, only Ollama models unused for a month are listed, for you to select and remove through Ollama. See the [AI cleanup guide](https://mole.fit/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai) for details.
 
 ### Start on your Mac
 

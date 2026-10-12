@@ -31,7 +31,7 @@ Mole for Mac 是 [Tw93](https://github.com/tw93) 开发和维护的原生 SwiftU
 
 #### AI 清理 · Preview
 
-Preview 版的清理页里有 AI 清理与维护，可以整理 Claude Code、Codex、Cursor 等工具留下的缓存、旧版本、旧会话、可清理的 worktree 和闲置命令行工具。缓存默认勾上，会话和工具由你确认，记忆、计划、技能文件和本地模型不在清理范围里，详见 [AI 清理说明](https://mole.fit/zh/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai)。
+Preview 版的清理页里有 AI 清理与维护，可以整理 Claude Code、Codex、Cursor 等工具留下的缓存、旧版本、旧会话、可清理的 worktree 和闲置命令行工具。缓存默认勾上，会话和工具由你确认，记忆、计划和技能文件不在清理范围里，本地模型只列出一个月没用的 Ollama 模型，由你勾选后通过 Ollama 删除，详见 [AI 清理说明](https://mole.fit/zh/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai)。
 
 ### 在 Mac 上开始使用
 
