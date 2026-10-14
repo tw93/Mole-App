@@ -52,7 +52,7 @@ Preview 版的清理页里有 AI 清理与维护，可以整理 Claude Code、Co
 
 ### Mole for Windows
 
-Windows 版目前仍在测试。
+Windows 版持续迭代。
 
 ![Mole for Windows 清理页面](https://mole.fit/img/windows-ch/clean.jpg)
 

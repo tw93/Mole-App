@@ -52,7 +52,7 @@ The Preview build adds AI Cleanup & Care inside Clean. It reviews caches, old ve
 
 ### Mole for Windows
 
-The Windows app is currently in testing.
+The Windows app keeps improving with each release.
 
 ![Mole for Windows cleanup screen](https://mole.fit/img/windows/clean.jpg)
 
