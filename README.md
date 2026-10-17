@@ -29,9 +29,9 @@ Mole for Mac is a native SwiftUI app created and maintained by [Tw93](https://gi
 | Analyze | Find large files and folders with a disk treemap, reveal them in Finder or move selected items to Trash | [Disk analysis](https://mole.fit/mac-disk-analyzer?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 | Status | View CPU, memory, storage, network and temperature readings, with selected metrics in the menu bar | [System monitor](https://mole.fit/mac-system-monitor?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 
-#### AI cleanup · Preview
+#### AI cleanup
 
-The Preview build adds AI Cleanup & Care inside Clean. It reviews caches, old versions, old sessions, cleanable worktrees and idle command-line tools from Claude Code, Codex, Cursor and other AI tools. Caches start selected, while sessions and tools need your review. Memories, plans and skills are excluded. For local models, only Ollama models unused for a month are listed, for you to select and remove through Ollama. See the [AI cleanup guide](https://mole.fit/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai) for details.
+Mole for Mac 1.16.0 includes AI Cleanup & Care inside Clean. It reviews caches, old versions, old sessions, cleanable worktrees and idle command-line tools from Claude Code, Codex, Cursor and other AI tools. Caches start selected, while sessions and tools need your review. Memories, plans and skills are excluded. For local models, only Ollama models unused for a month are listed, for you to select and remove through Ollama. See the [AI cleanup guide](https://mole.fit/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai) for details.
 
 ### Start on your Mac
 

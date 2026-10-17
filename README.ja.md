@@ -29,9 +29,9 @@ Mole for Mac は [Tw93](https://github.com/tw93) が開発・運営するネイ�
 | 分析 | ディスクのツリーマップで大きなファイルやフォルダを見つけ、Finder で表示したり、選んだ項目をゴミ箱に移動したりできます | [ディスク分析](https://mole.fit/ja/mac-disk-analyzer?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 | ステータス | CPU、メモリ、ストレージ、ネットワーク、温度を確認でき、選んだ項目をメニューバーに表示することもできます | [システムモニター](https://mole.fit/ja/mac-system-monitor?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 
-#### AI クリーン · ベータ
+#### AI クリーン
 
-ベータ版ではクリーンの中に AI クリーン&ケアが加わります。Claude Code、Codex、Cursor などの AI ツールが残したキャッシュ、古いバージョン、古いセッション、整理できる worktree、使われていないコマンドラインツールを確認できます。キャッシュは最初から選択され、セッションとツールはあなたの確認が必要です。メモリ、プラン、スキルは対象外です。ローカルモデルについては、1か月使われていない Ollama モデルだけが一覧に出て、選択して Ollama 経由で削除します。詳しくは [AI クリーンのガイド](https://mole.fit/ja/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai)をご覧ください。
+Mole for Mac 1.16.0 の正式版には、クリーン内に AI クリーン&ケアが含まれています。Claude Code、Codex、Cursor などの AI ツールが残したキャッシュ、古いバージョン、古いセッション、整理できる worktree、使われていないコマンドラインツールを確認できます。キャッシュは最初から選択され、セッションとツールはあなたの確認が必要です。メモリ、プラン、スキルは対象外です。ローカルモデルについては、1か月使われていない Ollama モデルだけが一覧に出て、選択して Ollama 経由で削除します。詳しくは [AI クリーンのガイド](https://mole.fit/ja/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai)をご覧ください。
 
 ### Mac で使い始める
 
@@ -56,7 +56,7 @@ Windows 版はリリースごとに改良を続けています。
 
 ![Mole for Windows のクリーン画面](https://mole.fit/img/windows-ja/clean.jpg)
 
-[Windows の記事](https://mole.fit/windows/blog?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) · [Windows のリリースノート](https://mole.fit/windows/releases?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme)
+[Windows の記事](https://mole.fit/ja/windows/blog?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) · [Windows のリリースノート](https://mole.fit/windows/releases?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme)
 
 ## フィードバック
 

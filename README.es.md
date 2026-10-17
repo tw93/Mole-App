@@ -29,9 +29,9 @@ Mole for Mac es una app nativa en SwiftUI creada y mantenida por [Tw93](https://
 | Analizar | Encuentra archivos y carpetas grandes con un treemap del disco, muéstralos en Finder o mueve los elementos seleccionados a la Papelera | [Análisis del disco](https://mole.fit/es/mac-disk-analyzer?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 | Estado | Consulta CPU, memoria, almacenamiento, red y temperatura, con las métricas que elijas en la barra de menús | [Monitor del sistema](https://mole.fit/es/mac-system-monitor?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 
-#### Limpieza con IA · Preview
+#### Limpieza con IA
 
-La versión Preview añade Limpieza y cuidado con IA dentro de Limpiar. Revisa cachés, versiones antiguas, sesiones antiguas, worktrees limpiables y herramientas de línea de comandos inactivas de Claude Code, Codex, Cursor y otras herramientas de IA. Las cachés aparecen seleccionadas, mientras que las sesiones y las herramientas requieren tu revisión. Los recuerdos, planes y skills quedan excluidos. Con los modelos locales, solo se listan los modelos de Ollama sin usar desde hace un mes, para que los selecciones y los elimines a través de Ollama. Consulta la [guía de limpieza con IA](https://mole.fit/es/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai) para más detalles.
+La versión estable de Mole for Mac 1.16.0 incluye Limpieza y cuidado con IA dentro de Limpiar. Revisa cachés, versiones antiguas, sesiones antiguas, worktrees limpiables y herramientas de línea de comandos inactivas de Claude Code, Codex, Cursor y otras herramientas de IA. Las cachés aparecen seleccionadas, mientras que las sesiones y las herramientas requieren tu revisión. Los recuerdos, planes y skills quedan excluidos. Con los modelos locales, solo se listan los modelos de Ollama sin usar desde hace un mes, para que los selecciones y los elimines a través de Ollama. Consulta la [guía de limpieza con IA](https://mole.fit/es/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai) para más detalles.
 
 ### Empezar en tu Mac
 

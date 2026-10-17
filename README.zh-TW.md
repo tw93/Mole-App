@@ -29,9 +29,9 @@ Mole for Mac 是 [Tw93](https://github.com/tw93) 開發和維護的原生 SwiftU
 | 分析 | 用樹狀圖找到大檔案和目錄，在 Finder 中顯示或把選中的內容移到垃圾桶 | [磁碟分析](https://mole.fit/tw/mac-disk-analyzer?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 | 狀態 | 檢視 CPU、記憶體、磁碟、網路和溫度，也能把選定的指標放到選單列 | [系統狀態](https://mole.fit/tw/mac-system-monitor?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 
-#### AI 清理 · Preview
+#### AI 清理
 
-Preview 版的清理頁裡有 AI 清理與維護，可以整理 Claude Code、Codex、Cursor 等工具留下的快取、舊版本、舊會話、可清理的 worktree 和閒置命令列工具。快取預設勾上，會話和工具由你確認，記憶、計劃和技能檔案不在清理範圍裡，本地模型只列出一個月沒用的 Ollama 模型，由你勾選後透過 Ollama 刪除，詳見 [AI 清理說明](https://mole.fit/tw/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai)。
+Mole Mac 1.16.0 正式版的清理頁裡有 AI 清理與維護，可以整理 Claude Code、Codex、Cursor 等工具留下的快取、舊版本、舊會話、可清理的 worktree 和閒置命令列工具。快取預設勾上，會話和工具由你確認，記憶、計劃和技能檔案不在清理範圍裡，本地模型只列出一個月沒用的 Ollama 模型，由你勾選後透過 Ollama 刪除，詳見 [AI 清理說明](https://mole.fit/tw/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai)。
 
 ### 在 Mac 上開始使用
 

@@ -29,9 +29,9 @@ Mole for Mac è un'app nativa in SwiftUI creata e mantenuta da [Tw93](https://gi
 | Analizza | Trova file e cartelle di grandi dimensioni con una treemap del disco, mostrali nel Finder o sposta nel Cestino gli elementi selezionati | [Analisi del disco](https://mole.fit/it/mac-disk-analyzer?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 | Stato | Consulta CPU, memoria, spazio di archiviazione, rete e temperatura, con alcuni dati scelti nella barra dei menu | [Monitor di sistema](https://mole.fit/it/mac-system-monitor?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 
-#### Pulizia AI · Preview
+#### Pulizia AI
 
-La build Preview aggiunge Pulizia e manutenzione AI dentro Pulizia. Controlla cache, versioni vecchie, sessioni vecchie, worktree eliminabili e strumenti da riga di comando inattivi di Claude Code, Codex, Cursor e altri strumenti AI. Le cache sono selezionate in partenza, mentre sessioni e strumenti richiedono la tua verifica. Memorie, piani e skill sono esclusi. Per i modelli locali vengono elencati solo i modelli Ollama non usati da un mese, da selezionare e rimuovere tramite Ollama. Trovi i dettagli nella [guida alla pulizia AI](https://mole.fit/it/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai).
+La versione stabile di Mole for Mac 1.16.0 include Pulizia e manutenzione AI dentro Pulizia. Controlla cache, versioni vecchie, sessioni vecchie, worktree eliminabili e strumenti da riga di comando inattivi di Claude Code, Codex, Cursor e altri strumenti AI. Le cache sono selezionate in partenza, mentre sessioni e strumenti richiedono la tua verifica. Memorie, piani e skill sono esclusi. Per i modelli locali vengono elencati solo i modelli Ollama non usati da un mese, da selezionare e rimuovere tramite Ollama. Trovi i dettagli nella [guida alla pulizia AI](https://mole.fit/it/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai).
 
 ### Inizia sul tuo Mac
 

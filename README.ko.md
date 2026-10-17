@@ -29,9 +29,9 @@ Mole for Mac은 [Tw93](https://github.com/tw93)가 만들고 관리하는 네이
 | 분석 | 디스크 트리맵으로 큰 파일과 폴더를 찾고, Finder에서 보거나 선택한 항목을 휴지통으로 이동합니다 | [디스크 분석](https://mole.fit/ko/mac-disk-analyzer?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 | 상태 | CPU, 메모리, 저장 공간, 네트워크, 온도를 확인하고, 선택한 지표는 메뉴 막대에 표시할 수 있습니다 | [시스템 모니터](https://mole.fit/ko/mac-system-monitor?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 
-#### AI 정리 · 베타
+#### AI 정리
 
-베타 버전에는 정리 안에 AI 도구 정리 및 관리가 추가됩니다. Claude Code, Codex, Cursor 등 AI 도구가 남긴 캐시, 이전 버전, 오래된 채팅, 정리할 수 있는 worktree, 사용하지 않는 명령줄 도구를 확인합니다. 캐시는 기본으로 선택되고, 채팅과 도구는 직접 검토해야 합니다. 메모리, 계획, 스킬 파일은 대상에서 제외됩니다. 로컬 모델은 한 달 넘게 쓰지 않은 Ollama 모델만 목록에 나오며, 직접 선택해 Ollama로 삭제합니다. 자세한 내용은 [AI 정리 가이드](https://mole.fit/ko/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai)를 참고하세요.
+Mole for Mac 1.16.0 정식 버전에는 정리 안에 AI 도구 정리 및 관리가 포함되어 있습니다. Claude Code, Codex, Cursor 등 AI 도구가 남긴 캐시, 이전 버전, 오래된 채팅, 정리할 수 있는 worktree, 사용하지 않는 명령줄 도구를 확인합니다. 캐시는 기본으로 선택되고, 채팅과 도구는 직접 검토해야 합니다. 메모리, 계획, 스킬 파일은 대상에서 제외됩니다. 로컬 모델은 한 달 넘게 쓰지 않은 Ollama 모델만 목록에 나오며, 직접 선택해 Ollama로 삭제합니다. 자세한 내용은 [AI 정리 가이드](https://mole.fit/ko/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai)를 참고하세요.
 
 ### Mac에서 시작하기
 

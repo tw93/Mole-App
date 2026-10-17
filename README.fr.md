@@ -29,9 +29,9 @@ Mole for Mac est une app SwiftUI native créée et maintenue par [Tw93](https://
 | Analyser | Repérer les gros fichiers et dossiers avec un treemap du disque, les afficher dans le Finder ou placer les éléments sélectionnés dans la Corbeille | [Analyse du disque](https://mole.fit/fr/mac-disk-analyzer?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 | État | Consulter le CPU, la mémoire, le stockage, le réseau et la température, avec des mesures au choix dans la barre des menus | [Moniteur système](https://mole.fit/fr/mac-system-monitor?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 
-#### Nettoyage IA · Bêta
+#### Nettoyage IA
 
-La version bêta ajoute Nettoyage et entretien des outils d’IA dans Nettoyer. Elle passe en revue les caches, anciennes versions, anciennes sessions, worktrees nettoyables et outils en ligne de commande inactifs de Claude Code, Codex, Cursor et d’autres outils d’IA. Les caches sont cochés par défaut, tandis que les sessions et les outils demandent votre validation. Les mémoires, les plans et les skills sont exclus. Pour les modèles locaux, seuls les modèles Ollama inutilisés depuis un mois sont listés, pour que vous les sélectionniez et les supprimiez via Ollama. Consultez le [guide du nettoyage IA](https://mole.fit/fr/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai) pour les détails.
+La version stable de Mole for Mac 1.16.0 inclut Nettoyage et entretien des outils d’IA dans Nettoyer. Elle passe en revue les caches, anciennes versions, anciennes sessions, worktrees nettoyables et outils en ligne de commande inactifs de Claude Code, Codex, Cursor et d’autres outils d’IA. Les caches sont cochés par défaut, tandis que les sessions et les outils demandent votre validation. Les mémoires, les plans et les skills sont exclus. Pour les modèles locaux, seuls les modèles Ollama inutilisés depuis un mois sont listés, pour que vous les sélectionniez et les supprimiez via Ollama. Consultez le [guide du nettoyage IA](https://mole.fit/fr/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai) pour les détails.
 
 ### Démarrer sur votre Mac
 

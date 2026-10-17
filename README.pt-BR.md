@@ -29,9 +29,9 @@ O Mole for Mac é um app nativo em SwiftUI criado e mantido por [Tw93](https://g
 | Analisar | Encontre arquivos e pastas grandes em um treemap do disco, mostre-os no Finder ou mova os itens selecionados para o Lixo | [Análise de disco](https://mole.fit/mac-disk-analyzer?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 | Status | Veja CPU, memória, armazenamento, rede e temperatura, com métricas selecionadas na barra de menus | [Monitor do sistema](https://mole.fit/mac-system-monitor?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 
-#### Limpeza de IA · Beta
+#### Limpeza de IA
 
-A versão Beta adiciona a Limpeza e Cuidado de IA dentro de Limpar. Ela revisa caches, versões antigas, sessões antigas, worktrees que podem ser limpos e ferramentas de linha de comando ociosas do Claude Code, Codex, Cursor e de outras ferramentas de IA. Os caches já vêm selecionados, enquanto sessões e ferramentas precisam da sua revisão. Memórias, planos e skills ficam de fora. Para modelos locais, só aparecem os modelos do Ollama sem uso há um mês, para você selecionar e remover pelo Ollama. Veja o [guia de limpeza de IA](https://mole.fit/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai) para mais detalhes.
+A versão estável do Mole for Mac 1.16.0 inclui a Limpeza e Cuidado de IA dentro de Limpar. Ela revisa caches, versões antigas, sessões antigas, worktrees que podem ser limpos e ferramentas de linha de comando ociosas do Claude Code, Codex, Cursor e de outras ferramentas de IA. Os caches já vêm selecionados, enquanto sessões e ferramentas precisam da sua revisão. Memórias, planos e skills ficam de fora. Para modelos locais, só aparecem os modelos do Ollama sem uso há um mês, para você selecionar e remover pelo Ollama. Veja o [guia de limpeza de IA](https://mole.fit/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai) para mais detalhes.
 
 ### Primeiros passos no Mac
 

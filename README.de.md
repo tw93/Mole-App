@@ -29,9 +29,9 @@ Mole for Mac ist eine native SwiftUI-App, die von [Tw93](https://github.com/tw93
 | Analyse | Große Dateien und Ordner in einer Treemap finden, im Finder anzeigen oder ausgewählte Objekte in den Papierkorb legen | [Datenträgeranalyse](https://mole.fit/de/mac-disk-analyzer?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 | Status | CPU, Arbeitsspeicher, Speicherplatz, Netzwerk und Temperatur ansehen, ausgewählte Werte auch in der Menüleiste | [Systemmonitor](https://mole.fit/de/mac-system-monitor?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) |
 
-#### KI-Bereinigung · Preview
+#### KI-Bereinigung
 
-Der Preview-Build ergänzt unter Bereinigen die KI-Bereinigung und -Pflege. Sie prüft Caches, alte Versionen, alte Sitzungen, aufräumbare Worktrees und ungenutzte Kommandozeilen-Tools von Claude Code, Codex, Cursor und anderen KI-Tools. Caches sind vorausgewählt, Sitzungen und Tools müssen Sie selbst prüfen. Erinnerungen, Pläne und Skills sind ausgenommen. Bei lokalen Modellen werden nur Ollama-Modelle aufgelistet, die seit einem Monat nicht benutzt wurden, die Sie auswählen und über Ollama entfernen. Details stehen in der [Anleitung zur KI-Bereinigung](https://mole.fit/de/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai).
+Die stabile Version Mole for Mac 1.16.0 enthält unter Bereinigen die KI-Bereinigung und -Pflege. Sie prüft Caches, alte Versionen, alte Sitzungen, aufräumbare Worktrees und ungenutzte Kommandozeilen-Tools von Claude Code, Codex, Cursor und anderen KI-Tools. Caches sind vorausgewählt, Sitzungen und Tools müssen Sie selbst prüfen. Erinnerungen, Pläne und Skills sind ausgenommen. Bei lokalen Modellen werden nur Ollama-Modelle aufgelistet, die seit einem Monat nicht benutzt wurden, die Sie auswählen und über Ollama entfernen. Details stehen in der [Anleitung zur KI-Bereinigung](https://mole.fit/de/docs?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme#docs-ai).
 
 ### Auf dem Mac loslegen
 
@@ -56,7 +56,7 @@ Die Windows-App wird mit jedem Release weiter verbessert.
 
 ![Bereinigungsansicht von Mole for Windows](https://mole.fit/img/windows-de/clean.jpg)
 
-[Windows-Artikel](https://mole.fit/windows/blog?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) · [Windows-Release-Notes](https://mole.fit/windows/releases?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme)
+[Windows-Artikel](https://mole.fit/de/windows/blog?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme) · [Windows-Release-Notes](https://mole.fit/windows/releases?utm_source=github.com&utm_medium=referral&utm_campaign=mole-app-readme)
 
 ## Feedback
 
